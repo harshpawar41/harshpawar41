@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshpawar41
-- 👀 I’m interested in data science
+- 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning python
 
 
